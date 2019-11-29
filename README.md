@@ -29,7 +29,7 @@ As the data storage media vector used in this project is GeoPackage format
 As a basic map used in this project is to take advantage of Tile Server XYZ features available in QGIS 2.18 and above. Already available directly in the form of tile server from google satellite
 
 ## Requirements
-1.	QGIS 2.18 or above. To be able to open the project file QGISPdam this must be opened on Computer / Laptop that has been installed QGIS version 2.18 and above.
+1.	QGIS 3.0 or above. To be able to open the project file QGISPdam this must be opened on Computer / Laptop that has been installed QGIS version 2.18 and above.
 The QGIS application can be downloaded at http://www.qgis.org/en/site/forusers/download.html .
 This Project file can also be opened in Android Device with installed QFIELD Android app. The QFIELD application can be downloaded at https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=en
 
