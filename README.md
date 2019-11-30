@@ -26,7 +26,7 @@ The ten layers have also been designed by Suherman in order to perform digitizat
 As the data storage media vector used in this project is GeoPackage format
 
 ## Raster Data Format
-As a basic map used in this project is to take advantage of Tile Server XYZ features available in QGIS 2.18 and above. Already available directly in the form of tile server from google satellite
+As a basic map used in this project is to take advantage of Tile Server XYZ features available in QGIS 2.18 and above. Already available directly in the form of tile server from Open Sreet Map.
 
 ## Requirements
 1.	QGIS 3.0 or above. To be able to open the project file QGISPdam this must be opened on Computer / Laptop that has been installed QGIS version 3.0 and above.
@@ -35,5 +35,3 @@ This Project file can also be opened in Android Device with installed QFIELD And
 
 2.	Internet Connection. To be able to open the raster of the Google Map tile server, it must be provided internet connection
 
-# Video Tutorial
-[![QGISPdam Project](https://img.youtube.com/vi/6ye9n-wvUF8/0.jpg)](https://www.youtube.com/watch?v=6ye9n-wvUF8 "QGISPdam Project")
