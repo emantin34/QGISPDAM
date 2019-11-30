@@ -35,3 +35,5 @@ This Project file can also be opened in Android Device with installed QFIELD And
 
 2.	Internet Connection. To be able to open the raster of the Google Map tile server, it must be provided internet connection
 
+## explanation in Indonesian
+http://suherman.asia/w2/new-version-qgispdam-v-1-5-0.html
