@@ -1,7 +1,7 @@
 # About QGISPDAM
 As we know that one of the GIS applications that have an opensource license is QGIS. QGIS or Quantum GIS is an open source Geographic Information System application that supports multiple data vector formats, spatial databases and many raster data formats. Unlike many other open source GIS programs, QGIS is available for a number of operating systems, including Windows and Mac OSX. The program offers standard GIS functions, including a wide range of mapping features, data editing, on-the-fly projections and GRASS digitizing. support for plugins extends the functionality to a more advanced level by providing additional tools such as GPS data support, georeferencing, and additional mapping elements.
 
-![Alt text](/screenshot/gispdam1.jpg?raw=true)
+![Alt text](/screenshot/gispdam3.jpg?raw=true)
 
 With such a vast capability, Suherman makes a simple QGIS project that has been designed in such a way to be used for digitization activities of Water Supply or Waste Water Company their pipeline network assets and its customer position. It is thus expected to help Water Supply or Waste Water Company who are new to or will begin the process of digitizing their assets.
 
