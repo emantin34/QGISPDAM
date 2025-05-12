@@ -32,8 +32,9 @@ As a basic map used in this project is to take advantage of Tile Server XYZ feat
 1.	QGIS 3.34 or above. To be able to open the project file QGISPdam this must be opened on Computer / Laptop that has been installed QGIS version 3.0 and above.
 The QGIS application can be downloaded at http://www.qgis.org/en/site/forusers/download.html .
 This Project file can also be opened in Android Device with installed QFIELD Android app. The QFIELD application can be downloaded at https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=en
+2. After you install QGIS, please install Qfield Plugin.
 
-2.	Internet Connection. To be able to open the raster of the Google Map tile server, it must be provided internet connection
+3.	Internet Connection. To be able to open the raster of the Google Map tile server, it must be provided internet connection
 
 ## explanation in Indonesian
 http://suherman.asia/w2/new-version-qgispdam-v-1-5-0.html
