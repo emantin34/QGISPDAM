@@ -34,7 +34,7 @@ The QGIS application can be downloaded at http://www.qgis.org/en/site/forusers/d
 This Project file can also be opened in Android Device with installed QFIELD Android app. The QFIELD application can be downloaded at https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=en
 2. After you install QGIS, please install Qfield Plugin.
 
-3.	Internet Connection. To be able to open the raster of the Google Map tile server, it must be provided internet connection
+3.	Internet Connection. To be able to open the raster of the OSM Map tile server, it must be provided internet connection
 
 ## explanation in Indonesian
 http://suherman.asia/w2/new-version-qgispdam-v-1-5-0.html
