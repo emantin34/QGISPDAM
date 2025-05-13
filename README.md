@@ -22,6 +22,8 @@ has provided 10 basic layer commonly used by PDAM that is :
 
 The ten layers have also been designed by Suherman in order to perform digitization and equipped with input form Attributes commonly required by the Water Supply or Waste Water Company.
 
+The latest version has been enhanced to ensure seamless integration with the QFIELD mobile application, supporting key features such as photo capture and survey result printing enabling more efficient field data collection and reporting.
+
 ## The vector data format
 As the data storage media vector used in this project is GeoPackage format
 
